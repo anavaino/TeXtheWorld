@@ -1,20 +1,17 @@
 # TeXtheWorld Safari Extension
 
 ## Abstract
-This is an extension for Safari to support embedded [TeX](https://en.wikipedia.org/wiki/TeX) on Reddit and GitHub (GitHub so that you can see if this working - check the **Is It Working?** section below). This was originally done because installing Ninjakit (a GreaseMonkey clone for Safari) fell off the radar and it seemed simpler to just make an extension for personal use.
+This is an extension for Safari to support embedded [LaTeX](http://www.latex-project.org) on Reddit. This was originally done because installing Ninjakit (a GreaseMonkey clone for Safari) fell off the radar and it seemed simpler to just make an extension for personal use.
 
 ## Get the Extension
 A prebuilt extension that has been briefly tested with Safari 10.1.1 and Safari 10.2 (Technology Preview) is available [here](https://github.com/anavaino/TeXtheWorld/raw/master/TeXtheWorld.safariextz). It will require you to trust it since it's not a published extension. *Caveat emptor*. If you have issues with it, report them [here](https://github.com/anavaino/TeXtheWorld/issues) or send a message to [/u/Anavaino](https://www.reddit.com/message/compose/?to=Anavaino) on Reddit.
 
 ## Is It Working?
-You can see if it's working for you by either going to [/r/math](https://www.reddit.com/r/math) and scrolling down to the **Using LaTeX** section on the sidebar or by seeing if the following shows up as a nicely formatted formula rather than a bunch of text with semicolons and brackets in it:
-
-`[; e^{\pi i}+1=0 ;]`
-
+You can see if it's working for you by going to [/r/math](https://www.reddit.com/r/math) and scrolling down to the **Using LaTeX** section on the sidebar. Depending on how you installed it and answered dialogs, it may be installed but not enabled. In Safari, press ⌘-, (command-comma) or select Safari->Preferences... from the menu bar, then click Extensions at the top and check the box next to *TeXtheWorld* to enable it.
 
 ## Detail
 This is an extremely simple Safari extension that runs TeXtheWorld Javascript in Safari on Reddit. It was written in roughly
-10 minutes in order to see the embedded TeX used on Reddit's [/r/math](https://www.reddit.com/r/math). Writing this README and creating the repository took far longer. The Javascript came
+10 minutes in order to see the embedded LaTeX used on Reddit's [/r/math](https://www.reddit.com/r/math). Writing this README and creating the repository took far longer. The Javascript came
 directly from [a link](http://thewe.net/tex/textheworld7.user.js) in /r/math's sidebar. The suggestion to Open Source it came from Reddit user
 [/u/sheyneanderson](https://www.reddit.com/user/sheyneanderson) since the author (me - your brother) was too stupid to think of it himself.
 

@@ -26,4 +26,4 @@ The permissive [MIT License](https://en.wikipedia.org/wiki/MIT_License) has been
 apply to the TeXtheWorld Javascript since it *seems* to come unlicensed. The intent is not to restrict this but rather to
 protect it from being taken over by someone intending to commercialize it with no recourse. A recent
 [Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) study ranked TeX extensions as one of the most commericially
-profitable browser extensions in the history of the World Wide Web[\*](https://en.wikipedia.org/wiki/Poe's_law). One can never be to cautious.
+profitable browser extensions in the history of the World Wide Web[\*](https://en.wikipedia.org/wiki/Poe's_law). One can never be too cautious.
